@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment / OS files
+.env
+.DS_Store
+Thumbs.db
+
+# Generated outputs you may not want tracked repeatedly
+# Uncomment below if needed:
+# data/cleaned_data.csv
+# outputs/*.png
